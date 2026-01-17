@@ -10,4 +10,4 @@ Libraries used :- import cv2 (pip install opencv-python (for configuration) ), i
 
 
 # Created_By
-KUNAL DHIBAR & Subhajit Das
+KUNAL DHIBAR & SUBHAJIT DAS
